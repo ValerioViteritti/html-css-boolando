@@ -71,7 +71,6 @@ section{
     min-height: 400px;
     width: 32%;
     position: relative;
-    
     margin : 20px 0;
 }
 
@@ -124,18 +123,21 @@ section{
     color: white;
     /* position: absolute; */
     
-    padding: 8px 18px;
-    font-size: 18px;
+    padding: 6px 16px;
+    font-size: 20px;
 }
 
 .ecogreen{
     background-color: green;
     color: white;
     /* position: absolute; */
-    padding: 8px 18px;
+    padding: 6px 16px;
+    font-size: 20px;
     /* bottom: 25px;
     left: 0; */
-
+}
+span.through{
+    text-decoration: line-through;
 }
 
 /* Regole del footer  */
